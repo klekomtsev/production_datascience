@@ -22,7 +22,6 @@ setup(
 
     url='https://github.com/klekomtsev/production_datascience',
     author='Konstantin Lekomtsev',
-    author_email='lekomtsev.konst@gmail.com',  # Substitute your email
     license='MIT',
     packages=['titanic'],
 	install_requires=['pypandoc>=1.4']
