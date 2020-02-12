@@ -1,0 +1,3 @@
+certifi==2019.11.28
+pypandoc==1.4
+-e /Users/konstantin/Documents/DataScienceCareerTrack/production_datascience
